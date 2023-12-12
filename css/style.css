@@ -353,7 +353,7 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 42px;
     vertical-align: middle;
     margin-right: 15px;
 }
@@ -2072,14 +2072,6 @@ blockquote {
     }
 }
 
-@media screen and (min-width: 600px) {
-
-  /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
- .mobile-hide {
-    display: none !important;
- }
-
-}
 /*------------------------------------------------------------------------------------------*/
 /* Responsive Elements */
 /*------------------------------------------------------------------------------------------*/

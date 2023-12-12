@@ -13,14 +13,6 @@
 /* 1. Website Default Styling */
 /*------------------------------------------------------------------------------------------*/
 
-@media screen and (min-width: 1025px) {
-
-  /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
- .mobile-hide {
-    display: none !important;
- }
-
-}
 
 body {
     background:#fff;
